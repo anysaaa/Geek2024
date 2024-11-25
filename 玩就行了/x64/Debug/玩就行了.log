@@ -1,0 +1,3 @@
+﻿  wan.cpp
+C:\Users\doome\source\repos\re2\玩就行了\wan.cpp(23,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  玩就行了.vcxproj -> C:\Users\doome\source\repos\re2\x64\Debug\玩就行了.exe
